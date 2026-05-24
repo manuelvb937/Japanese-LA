@@ -23,7 +23,7 @@ class JapaneseReaderApp extends StatelessWidget {
         ),
         scaffoldBackgroundColor: const Color(0xFFF8FAFF),
         textTheme: GoogleFonts.notoSansJpTextTheme(base.textTheme),
-        cardTheme: CardTheme(
+        cardTheme: CardThemeData(
           color: Colors.white,
           elevation: 0,
           shape: RoundedRectangleBorder(
