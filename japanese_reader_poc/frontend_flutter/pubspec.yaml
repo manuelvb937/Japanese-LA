@@ -12,7 +12,7 @@ dependencies:
   google_fonts: ^6.2.1
   image_picker: ^1.1.2
   file_picker: ^8.1.2
-  image_cropper: ^8.0.2
+  crop_your_image: ^2.0.0
   http: ^1.2.2
   shared_preferences: ^2.3.2
 

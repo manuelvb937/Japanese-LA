@@ -16,6 +16,7 @@ class OCRPage(BaseModel):
     page_number: int
     text: str
     words: List[OCRWord]
+    ocr_mode: str | None = None
 
 
 class TokenResult(BaseModel):

@@ -1,0 +1,21 @@
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+.venv/
+venv/
+.env
+
+*.log
+*.tmp
+
+# Generated dictionary data. Recreate with backend/scripts/import_jmdict.py.
+backend/app/data/JMdict_e.gz
+backend/app/data/dictionary_jmdict.json
